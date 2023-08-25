@@ -1,5 +1,7 @@
 ## Application
 
+![Captura de pantalla 2023-08-24 192700](https://github.com/dannycastilloo/React-Router/assets/76531494/24cbc2b2-94ce-4974-8542-0bec2ab6fd6e)
+![Captura de pantalla 2023-08-24 192725](https://github.com/dannycastilloo/React-Router/assets/76531494/7ea937c3-b022-4754-b56e-c461ac931a67)
 
 ## Description
 This is a web application, which uses react-router-dom for the navigation. More characteristics:
