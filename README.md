@@ -1,6 +1,7 @@
 ## Application
 
-![Captura de pantalla 2023-08-24 192700](https://github.com/dannycastilloo/React-Router/assets/76531494/24cbc2b2-94ce-4974-8542-0bec2ab6fd6e)
+![Captura de pantalla 2023-08-24 192700](https://github.com/dannycastilloo/React-Router/assets/76531494/b0ba75d5-d519-49c4-8c38-c2752dc03664)
+
 ![Captura de pantalla 2023-08-24 192725](https://github.com/dannycastilloo/React-Router/assets/76531494/7ea937c3-b022-4754-b56e-c461ac931a67)
 
 ## Description
